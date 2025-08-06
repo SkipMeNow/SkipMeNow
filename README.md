@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rafael </h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h3 align="center">A passionate Software Engineer from USA</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
