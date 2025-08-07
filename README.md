@@ -2,13 +2,12 @@
 <h3 align="center">A passionate Software Engineer from the USA 🇺🇸</h3>
 
 - 🌱 I’m currently diving deep into **HTML, CSS, and JavaScript**
-- 🎯 I love crafting modular, scalable UI components and exploring game development tools like Unity and Unreal Engine
+-  👨‍💻 All of my projects are available at [github.com/SkipMeNow](https://github.com/SkipMeNow)
+
 
 ## 🚀 Goals
 - Expand my knowledge by learning new programming languages and frameworks
 - Explore backend technologies to become a full-stack developer
-
-- 👨‍💻 All of my projects are available at [github.com/SkipMeNow](https://github.com/SkipMeNow)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
