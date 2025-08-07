@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
+## 🚀 Goals
+- Expand my knowledge by learning new programming languages and frameworks
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/SkipMeNow](https://github.com/SkipMeNow)
 
 <h3 align="left">Languages and Tools:</h3>
