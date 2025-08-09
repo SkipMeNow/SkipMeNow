@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rafael 👋</h1>
-<h3 align="center">A passionate Software Engineer from the USA 🇺🇸</h3>
+<h3 align="center">A passionate Software Engineer from the USA</h3>
 
 - 🌱 I’m currently diving deep into **HTML, CSS, and JavaScript**
 -  👨‍💻 All of my projects are available at [github.com/SkipMeNow](https://github.com/SkipMeNow)
